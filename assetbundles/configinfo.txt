@@ -1,0 +1,4 @@
+{
+  "config_url": "https://raw.githubusercontent.com/mrgiang/ghmmtest/main/assetbundles/versioninfo.txt",
+  "bundle_path": "assetbundles"
+}

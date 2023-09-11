@@ -1,0 +1,22 @@
+{
+  "host": "http://127.0.0.1:8080/",
+  "ios_review_version": "",
+  "develop_version": "1.0.1.19",
+  "release_version": "1.0.1.19",
+  "ab_server" : "gdrive",
+  "ab_server_list" : "gdrive , master",
+  "bundle_android": "04022021.01",
+  "bundle_ios": "04022021.01",
+  "bundle_windows": "04022021.01",
+  "bundle_config_id_ios":"1TJZmbbJC9DFNShNXm3dcX0Y1XBesJPP5",
+  "bundle_config_id_android":"wn01",
+  "bundle_review_config_id_android":"1gDGVOXMGQriyqL1S7BBue04ovES7-WoY",
+  "bundle_config_id_windows":"wn01",
+  "bundle_review_config_id_windows":"1QE3MEYLJM2RxXskJdOpBB9wOpHLg1PZO",
+  "bundle_config_id_windows_debug":"1CoqOAzY5ugOO7AugCZ26WIQVEI4S_PU1",
+  "preload_login":"lua;verbundle",
+  "bundle_cache_version":19,
+  "android_store_url": "market://details?id=com.shabu.ghoff",
+  "ios_store_url": "itms-apps://itunes.apple.com/app/id1562812453",
+  "iap_product_id":"gold_200_a,gold_500,gold_1100,gold_2000,gold_5500,gold_12000,month_gold_500,one_gold_1000,day_gold_200,day_gold_400,day_gold_600"
+}
