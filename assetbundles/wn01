@@ -2,9 +2,6 @@
   "info": [
     {"name":"lua","url":"lua","size":"1915"},
 	{"name":"verbundle","url":"verbundle","size":"1"},
-	{"name":"atlases","url":"atlases","size":"37657"},
-	{"name":"font","url":"font","size":"38157"},
-	{"name":"gui/ride","url":"gui/ride","size":"1205"},
 	{"name":"Android","url":"Android","size":"1"},
 	{"name":"StandaloneWindows","url":"Android","size":"1"}
   ]
