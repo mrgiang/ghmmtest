@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 377912436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c69e93c49803b49b76876db4249ad2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 177849689f4eea64858053e3b9dd7993
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 446d504799d99174383957fca80713c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72af25c2a1299f94a86fa9cace6e252a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abb8dc4c842a6f54ca1ac4e385249375, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c20815eb3063c24290a61b7020a1836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c041f61e4a9fbf4e830210f5d933ece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d335b6026587ad24dbe124fe5dd1cc02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f64e34bb244a61f479cdbb31bce39cd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d35d721694fa0ee48a2d14bddfcbf4a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UIRect/AnchorPoint
+Assets:
+- Assets/CommonAssets/Other/wd/Head/Anim/sta.anim
+- Assets/CommonAssets/Other/wd/Texture/wd_show.png
+- Assets/CommonAssets/Other/tw/Material/m_TW.mat
+- Assets/CommonAssets/Other/em/Model/em_show.asset
+- Assets/CommonAssets/Other/em/Model/sword_show.asset
+- Assets/CommonAssets/Other/sl/Animation/m_show.anim
+- Assets/CommonAssets/Other/tw/Texture/m_TW.png
+- Assets/Resources/GUI/Ride/UI_RidePanel.prefab
+- Assets/CommonAssets/Other/wd/Materials/wd_show.mat
+- Assets/CommonAssets/Other/tw/Model/M2_TW005_Body.asset
+- Assets/CommonAssets/Other/em/Texture/em_show.png
+- Assets/CommonAssets/Other/sl/m_controller.controller
+- Assets/CommonAssets/Other/wd/Model/wd_show.asset
+- Assets/CommonAssets/Other/wd/Head/Model/wd_show_head.asset
+- Assets/CommonAssets/Other/em/Head/Texture/F2_CG003_Head.png
+- Assets/CommonAssets/Other/wd/Head/Texture/wd_show_head.png
+- Assets/CommonAssets/Other/em/Head/Model/F2_CG003_Head.asset
+- Assets/CommonAssets/Other/sl/Animation/m_stand.anim
+- Assets/CommonAssets/Other/object/n_mgz004-a/Texture/n_mgz004-a.tga
+- Assets/CommonAssets/Other/wd/Weapon/Model/wd_sword.asset
+- Assets/CommonAssets/Other/em/Texture/sword_show.png
+- Assets/CommonAssets/Other/em/Head/Texture/F2_CG003_Head_C.png
+- Assets/CommonAssets/Other/wd/Head/Anim/wd_show_head.controller
+- Assets/Resources/GUI/Ride/UI_RideRenewShowPanel.prefab
+- Assets/CommonAssets/Other/wd/Head/Materials/wd_show_head.mat
+Dependencies:
+- E:/DGH_218_C_Master/AssetBundles/Android/atlases
+- E:/DGH_218_C_Master/AssetBundles/Android/font
